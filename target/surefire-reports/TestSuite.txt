@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.486 s <<< FAILURE! - in TestSuite
+openUrlTest(tests.SampleTest)  Time elapsed: 0.017 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "config.Config.getProperty(String)" because "this.config" is null
+	at tests.SampleTest.openUrlTest(SampleTest.java:12)
+

@@ -1,0 +1,3 @@
+config\Config.class
+tests\SampleTest.class
+tests\BaseTest.class
